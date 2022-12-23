@@ -1,2 +1,1 @@
-new file created to test merge 
-new commit
+new file created to test merge command
